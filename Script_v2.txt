@@ -5,4 +5,5 @@
  Obtener tipo de juguete = 'NIÑO' y 'NIÑA'
  generar indicadores
  exportar muestra en excel
+fffff
 <fin>

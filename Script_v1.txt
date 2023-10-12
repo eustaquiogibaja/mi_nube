@@ -1,0 +1,7 @@
+<inicio>
+ Obtener datos de ventas
+ Obtener datos de tiendas = 'LIMA'
+ Obtener cantidades de ventas producto in ('juguete', 'calzado', 'ropa')
+ generar indicadores
+ exportar muestra en excel
+<fin>
